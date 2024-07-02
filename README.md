@@ -24,4 +24,4 @@ This repository has 2 * .csv files and 1 * .xlsx file.
 
 **Both sets combined to make a master list, they have equal distribution**
 
-**ap.xlsx** has two sheets, that encapsulates 'Fundamentals' and 'Analysts' of the company.
+**ap.xlsx** has two sheets that encapsulate the 'Fundamentals' and 'Analysts' attributes of the companyies.
